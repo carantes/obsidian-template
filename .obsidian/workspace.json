@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13fadfde527a04ac",
+        "id": "9ead37229a151447",
         "type": "tabs",
         "children": [
           {
-            "id": "104e0472c1268804",
+            "id": "66a6c95f5ee9d945",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md"
               }
             }
           }
@@ -146,10 +142,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "104e0472c1268804",
+  "active": "3edf99740095d389",
   "lastOpenFiles": [
-    "Obsidian Template.canvas",
+    "Integrations/Save to Omnivore and Export to Obsidian.md",
+    "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md",
+    "04-Resources/Productivity/Obsidian",
+    "03-Areas/Productivity",
+    "Integrations",
+    "00-Inbox/Clippings",
+    "Clippings/Obsidian Web Clipper.md",
+    "Clippings/Obsidian Web Clipper 1.md",
     "README.md",
+    "Clippings",
+    "03-Areas/Work/Untitled",
+    "Obsidian Template.canvas",
     "04-Resources/Engineering/Microservices/DDD and Hexagonal Architecture.canvas",
     "04-Resources/Engineering/Microservices/Microservices Motivation and DDD.canvas",
     "04-Resources/Engineering/Microservices/Untitled.md",
@@ -164,20 +170,14 @@
     "00-Inbox/Omnivore/2024-02-21",
     "00-Inbox/Omnivore/2024-02-20/The Secret Power of ‘Read It Later’ Apps.md",
     "00-Inbox/Omnivore/2024-02-20",
-    "00-Inbox/Omnivore",
     "Omnivore/2024-02-20/Getting Started with Omnivore.md",
     "Omnivore/2024-09-04/Implementing cart microservice using Domain Driven Design, and Port and Adapter pattern - Part 1 ....md",
     "00-Inbox/Browser Clippings/Introduction - Templater.md",
-    "Omnivore/2024-09-04",
     "Omnivore/2024-02-21/SDC#24 - How DNS Works- - by Saurabh Dashora.md",
     "Omnivore/2024-02-21/SDC#29 - Don't Cache Without Asking Questions.md",
-    "Omnivore/2024-02-21",
     "Omnivore/2024-02-20/Organize your Omnivore library with labels.md",
     "Omnivore/2024-02-20/The Secret Power of ‘Read It Later’ Apps.md",
-    "Omnivore/2024-02-20",
-    "Omnivore",
     "00-Inbox/Browser Clippings/Obsidian Web Clipper Test Note.md",
-    "00-Inbox/Browser Clippings",
     "2024-09-04.md",
     "Welcome.md"
   ]
