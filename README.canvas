@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"3aafa99af45f217d","type":"text","text":"# Overview","x":-740,"y":-740,"width":1500,"height":260},
+		{"id":"23e0f23ad3b0a0db","type":"text","text":"# Organization\n\n0. Inbox\n1. Projects\n2. Goals\n3. Areas\n4. Resources\n5. Archive\n\n- Templates\n- Settings","x":-740,"y":-360,"width":360,"height":880},
+		{"id":"a76d67f6ecf534e4","type":"text","text":"# Integrations\n\n- iCloud Sync / Obsidian Sync\n- Todoist (Create tasks, Filtered Views)\n- Browser Bookmarks / Web clippings\n- ","x":400,"y":-360,"width":360,"height":880},
+		{"id":"927c35c8aa9ada16","type":"text","text":"# Workflows\n\n## Planning\n\n- [ ] Top-Down Long Term Planning\n- [ ] Bottom Up Daily/Week Planning\n- [ ] Synchronized To-do Lists\n- [ ] Create documents based on templates\n\n## Knowledge Management\n\n- [ ] Read / Watch Later List\n- [ ] Organize Bookmarks\n- [ ] Bookshelf\n- [ ] Collect and Organize Reading Notes\n- [ ] Efficient Search on existing documents (Tags, Attributes, Links)\n","x":-345,"y":-120,"width":710,"height":640},
+		{"id":"79c989b528e30dbd","x":-345,"y":-360,"width":710,"height":200,"type":"text","text":"# Methodology\n\n- PARA Method (Tiago Forte)\n- CODE (Capture, Organize, Digest, Express)"}
+	],
+	"edges":[
+		{"id":"1c44c52e53de5649","fromNode":"3aafa99af45f217d","fromSide":"bottom","toNode":"23e0f23ad3b0a0db","toSide":"top"},
+		{"id":"bd01dd58accdfb36","fromNode":"3aafa99af45f217d","fromSide":"bottom","toNode":"a76d67f6ecf534e4","toSide":"top"},
+		{"id":"650e45d94973741b","fromNode":"3aafa99af45f217d","fromSide":"bottom","toNode":"79c989b528e30dbd","toSide":"top"},
+		{"id":"240d6b8c5200605b","fromNode":"79c989b528e30dbd","fromSide":"bottom","toNode":"927c35c8aa9ada16","toSide":"top"}
+	]
+}
