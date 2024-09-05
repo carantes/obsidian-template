@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9ead37229a151447",
+        "id": "91b1804dd85e8bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "66a6c95f5ee9d945",
+            "id": "a359ab599f9eb549",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "05-Archive/Omnivore/2024-09-04/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 398.5
   },
   "right": {
     "id": "f0f8c146660fda35",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md",
+                "file": "05-Archive/Omnivore/2024-09-04/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md",
+                "file": "05-Archive/Omnivore/2024-09-04/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md"
+                "file": "05-Archive/Omnivore/2024-09-04/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md"
               }
             }
           }
@@ -139,37 +143,42 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-omnivore:Omnivore": false
     }
   },
   "active": "3edf99740095d389",
   "lastOpenFiles": [
-    "Integrations/Save to Omnivore and Export to Obsidian.md",
     "04-Resources/Productivity/Obsidian/Obsidian Web Clipper Bookmarklet.md",
+    "05-Archive/Omnivore/2024-09-04/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md",
+    "05-Archive/Omnivore/2024-09-04",
+    "00-Inbox/Clippings/2024-09-04/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md",
+    "05-Archive/Omnivore",
+    "04-Resources/Productivity/Obsidian/My Omnivore and Obsidian Read-it later system - Obsidian Observer.md",
+    "00-Inbox/Daily Notes/2024-09-04.md",
+    "00-Inbox/Clippings/2024-09-04",
+    "README.md",
+    "01-Projects/2024/Integrate Obsidian with Omnivore",
+    "02-Goals/2024/Organize My Digital Life",
+    "Integrations/Save to Omnivore and Export to Obsidian.md",
     "04-Resources/Productivity/Obsidian",
     "03-Areas/Productivity",
     "Integrations",
     "00-Inbox/Clippings",
     "Clippings/Obsidian Web Clipper.md",
     "Clippings/Obsidian Web Clipper 1.md",
-    "README.md",
     "Clippings",
-    "03-Areas/Work/Untitled",
     "Obsidian Template.canvas",
     "04-Resources/Engineering/Microservices/DDD and Hexagonal Architecture.canvas",
     "04-Resources/Engineering/Microservices/Microservices Motivation and DDD.canvas",
     "04-Resources/Engineering/Microservices/Untitled.md",
-    "04-Resources/Engineering/Microservices",
     "04-Resources/Engineering/System Design/M.md",
     "04-Resources/Engineering/Golang/Untitled.canvas",
     "00-Inbox/Omnivore/2024-09-04/Dashboard++ — a simple organization and navigation method for Obsidian Vaults - by TfTHacker - Ob....md",
     "00-Inbox/Omnivore/2024-02-20/Getting Started with Omnivore.md",
-    "00-Inbox/Omnivore/2024-09-04",
     "00-Inbox/Omnivore/2024-02-21/SDC#24 - How DNS Works- - by Saurabh Dashora.md",
     "00-Inbox/Omnivore/2024-02-21/SDC#29 - Don't Cache Without Asking Questions.md",
-    "00-Inbox/Omnivore/2024-02-21",
     "00-Inbox/Omnivore/2024-02-20/The Secret Power of ‘Read It Later’ Apps.md",
-    "00-Inbox/Omnivore/2024-02-20",
     "Omnivore/2024-02-20/Getting Started with Omnivore.md",
     "Omnivore/2024-09-04/Implementing cart microservice using Domain Driven Design, and Port and Adapter pattern - Part 1 ....md",
     "00-Inbox/Browser Clippings/Introduction - Templater.md",

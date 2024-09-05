@@ -20,6 +20,7 @@
 
 ## 05. Archive
 
+## 06. Templates
 
 
 # Workflows
